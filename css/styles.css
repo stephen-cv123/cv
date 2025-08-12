@@ -1,0 +1,25 @@
+/**************************TAG SELECTORS******************/
+body {
+  background-color: palegoldenrod;
+  }    
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: chocolate;
+border-width: 5px;
+width:20%;
+}
+img {
+height: 300px
+}
+h1{
+ color:saddlebrown;
+}
+h3{
+color:peru;
+}
+/**************************CLASS SELECTORS******************/
+.circular{
+  border-radius: 20%
+}
